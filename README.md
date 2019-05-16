@@ -27,6 +27,11 @@ git push -u origin master
 ```
 git branch -a
 ```
+- Set password and email
+```
+git config --global user.name "FIRST_NAME LAST_NAME"
+git config --global user.email "MY_NAME@example.com"
+```
 ## Develop Branch
 ### Create Develop Branch
 - Create a new branch, named develop and switch to develop branch

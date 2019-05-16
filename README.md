@@ -9,7 +9,7 @@ One Git-Flow Strategy
 - Hotfix branches
 2. <b> Prevet Commits on Master Branch </b> [more](https://stackoverflow.com/questions/40462111/git-prevent-commits-in-master-branch)
 3. <b> Git Guide from Attlasian </b> [more](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
-4. <b> Git Cheat Sheet </b> [more](https://github.com/ronnytorresmtz/tutorials/blob/master/atlassian-git-cheatsheet.pdf)
+4. <b> Git Cheat Sheet </b> [more](https://github.com/ronnytorresmtz/git-flow/blob/master/atlassian-git-cheatsheet.pdf)
 5. <b> Git Basics Instructions </b>
 
 ## Master Branch

@@ -1,7 +1,7 @@
 # Git-flow
 One Git-Flow Strategy
 
-1. <b> Successful Git Branching Model</b> [more](https://nvie.com/posts/a-successful-git-branching-model/) [PDF](https://github.com/ronnytorresmtz/tutorials/blob/master/Git-branching-model.pdf)
+1. <b> Successful Git Branching Model</b> [more](https://nvie.com/posts/a-successful-git-branching-model/) [PDF](https://github.com/ronnytorresmtz/git-flow/blob/master/Git-branching-model.pdf)
 - master branch 
 - develp branch
 - Feature branches

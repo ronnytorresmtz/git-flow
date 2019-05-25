@@ -127,9 +127,11 @@ git branch -d hotfix-1.2.1 (delete the hotfix branch)
 ```
 git branch -d branch_name
 ```
+With Capital -D force the deletion even if it is not merge
+
 - Remove Remote repository
 ```
-git push origin --delete branch_name
+git push --delete origin branch_name
 ```
 
 # Other Sources

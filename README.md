@@ -11,7 +11,8 @@
 
 - Create a new repository 
 ```
-Login to GitHub and Create a Repository then follow the next steps
+Login to GitHub and Create a Repository
+
 For Example: ronnytorresmtz/test
 
 ```

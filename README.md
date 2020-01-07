@@ -11,6 +11,7 @@
 - Create a new repository on the command line / link remote (local directory) to origin repository
 ```
 git init
+echo test > readme.md
 git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/ronnytorresmtz/test.git

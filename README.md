@@ -11,7 +11,7 @@
 
 - Create a new repository 
 ```
-Login to GitHub and Create a Repository
+Login to GitHub and Create a Repository WITOUT the readme file
 
 For Example: ronnytorresmtz/test
 

@@ -12,10 +12,12 @@
 - Create a new repository 
 ```
 Login to GitHub and Create a Repository then follow the next steps
+For Example: ronnytorresmtz/test
 
 ```
 
 - Link remote (local directory) to origin repository
+
 ```
 git init
 echo test > readme.md

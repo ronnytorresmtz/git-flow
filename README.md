@@ -8,7 +8,14 @@
 
 ## Master Branch
 ### Create Repository
-- Create a new repository on the command line / link remote (local directory) to origin repository
+
+- Create a new repository 
+```
+Login to GitHub and Create a Repository then follow the next steps
+
+```
+
+- Link remote (local directory) to origin repository
 ```
 git init
 echo test > readme.md

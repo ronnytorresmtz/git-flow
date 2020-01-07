@@ -8,7 +8,7 @@
 
 ## Master Branch
 ### Create Repository
-- Create a new repository on the command line 
+- Create a new repository on the command line / link remote (local directory) to origin repository
 ```
 git init
 git add README.md

@@ -13,7 +13,7 @@
 ```
 Login to GitHub and Create a Repository WIThOUT the readme file
 
-For Example: ronnytorresmtz/test
+For example: ronnytorresmtz/test
 
 ```
 

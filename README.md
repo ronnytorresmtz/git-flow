@@ -13,7 +13,7 @@
 ```
 Login to GitHub and Create a Repository WIThOUT the readme file
 
-For example: ronnytorresmtz/test
+For example: ronnytorresmtz/{test}
 
 ```
 
@@ -21,15 +21,15 @@ For example: ronnytorresmtz/test
 
 ```
 git init
-echo test > readme.md
+echo {test} > readme.md
 git add README.md
 git commit -m "first commit"
-git remote add origin https://github.com/ronnytorresmtz/test.git
+git remote add origin https://github.com/ronnytorresmtz/{test}.git
 git push -u origin master
 ```
 - Push an existing repository from the command line
 ```
-git remote add origin https://github.com/ronnytorresmtz/test.git
+git remote add origin https://github.com/ronnytorresmtz/{test}.git
 git push -u origin master
 ```
 - List all branches (local and remotes)

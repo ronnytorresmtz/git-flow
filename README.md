@@ -21,7 +21,7 @@ For example: ronnytorresmtz/{test}
 
 ```
 git init
-echo {test} > readme.md
+echo "# comments" >> README.md
 git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/ronnytorresmtz/{test}.git

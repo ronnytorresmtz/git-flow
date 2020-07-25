@@ -85,7 +85,7 @@ git merge --no-ff myfeature (== (Summary of changes ==)
 git push origin develop (== Push local to remote develop branch ==)
 
 git branch -d myfeature (== Deleted local branch myfeature ==)
-git push origin --delete myfeatuer (==Delete remote branch myfeature==)
+git push origin --delete myfeature (==Delete remote branch myfeature==)
 ```
 ## Release Branch
 ### Creating a release branch

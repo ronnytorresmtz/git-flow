@@ -82,8 +82,10 @@ git checkout -b myfeature develop
 ```
 git checkout develop (== Switched to branch 'develop' ==)
 git merge --no-ff myfeature (== (Summary of changes ==)
-git branch -d myfeature (== Deleted branch myfeature ==)
 git push origin develop (== Push local to remote develop branch ==)
+
+git branch -d myfeature (== Deleted local branch myfeature ==)
+git push origin --delete myfeatuer (==Delete remote branch myfeature==)
 ```
 ## Release Branch
 ### Creating a release branch
